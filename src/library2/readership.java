@@ -28,10 +28,11 @@ public class readership {
         System.out.println("");
         
         System.out.println("Книга - " + bookArray[0].getBook()[4] + " -> " + reader1Array[0].getReader2()[0] + "; " + reader1Array[0].getReader4()[0]);
+       
         System.out.println("Книга - " + bookArray[0].getBook()[0] + " -> " + reader1Array[0].getReader1()[0]);
         System.out.println("Книга - " + bookArray[0].getBook()[3] + " -> " + reader1Array[0].getReader4()[0] + "; " + reader1Array[0].getReader2()[0]);
         System.out.println("Книга - " + bookArray[0].getBook()[2] + " -> " + reader1Array[0].getReader5()[0]);
-        System.out.println("Книга - " + bookArray[0].getBook()[1] + " -> " + reader1Array[0].getReader3()[0]);
+        System.out.println("Книга - " + bookArray[0].getBook()[1] + " -> " + reader1Array[0].getReader3()[0]); 
         
     }
 }
