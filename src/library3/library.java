@@ -101,7 +101,7 @@ public class library {
                 System.out.println("Книга - " + bookArray[0].getBook()[3] + "; Автор - " + bookArray[0].getAuthor()[3] + "; Жанр - " + bookArray[0].getGenre()[0]);
                 break;
             case (36900):
-                System.out.println("Книга - " + bookArray[0].getBook()[4] + "; Автор - " + bookArray[0].getAuthor()[4] + "; Жанр - " + bookArray[0].getGenre()[0]);
+                System.out.println("Книга - " + bookArray[0].getBook()[4] + "; Автор - " + bookArray[0].getAuthor()[4] + "; Жанр - " + bookArray[0].getGenre()[0]); 
                 break;
             default:
                 System.out.println("Вы ошиблись, перезапустите программу и попробуйте снова");

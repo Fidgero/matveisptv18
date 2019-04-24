@@ -7,7 +7,7 @@ public class worker {
     private String[] worker1={"Артём", "Соколов", "30", "мужской", "25917"};
     private String[] worker2={"Алёна", "Морозова", "22", "женский", "81433"};
     private String[] worker3={"Надежда", "Степанова ", "42", "женский", "25315"};
-    private String[] worker4={"Юлия", "Васильева", "18", "женский", "82942"};
+    private String[] worker4={"Юлия", "Васильева", "18", "женский", "82942"}; 
 
     public String[] getWorker0() {
         return worker0;

@@ -7,7 +7,7 @@ public class reader {
     private String[] reader1={"Вася", "Кузнецов", "13", "Мужской", "10345"};
     private String[] reader2={"Джордж", "Перан", "18", "Мужской", "20374"};
     private String[] reader3={"Маша", "Орлова", "42", "Женский", "67981"};
-    private String[] reader4={"Вика", "Сигерина", "9", "Женский", "45298"};
+    private String[] reader4={"Вика", "Сигерина", "9", "Женский", "45298"}; 
 
     public String[] getReader0() {
         return reader0;
